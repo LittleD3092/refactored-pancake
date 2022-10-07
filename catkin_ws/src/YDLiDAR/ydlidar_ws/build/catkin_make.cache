@@ -1,0 +1,2 @@
+ydlidar_ros_driver-master
+-DCATKIN_DEVEL_PREFIX=/home/littled3092/YDLiDAR/ydlidar_ws/devel -DCMAKE_INSTALL_PREFIX=/home/littled3092/YDLiDAR/ydlidar_ws/install -G Unix Makefiles
