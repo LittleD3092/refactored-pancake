@@ -1,0 +1,7 @@
+set(fkie_master_sync_SETUP_PY_SETUP_MODULE "distutils.core")
+set(fkie_master_sync_SETUP_PY_VERSION "1.3.2")
+set(fkie_master_sync_SETUP_PY_SCRIPTS "")
+set(fkie_master_sync_SETUP_PY_PACKAGES "fkie_master_sync")
+set(fkie_master_sync_SETUP_PY_PACKAGE_DIRS "src/fkie_master_sync")
+set(fkie_master_sync_SETUP_PY_MODULES "")
+set(fkie_master_sync_SETUP_PY_MODULE_DIRS "")

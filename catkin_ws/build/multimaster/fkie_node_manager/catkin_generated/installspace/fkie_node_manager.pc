@@ -1,0 +1,8 @@
+prefix=/home/itron/refactored-pancake/catkin_ws/install
+
+Name: fkie_node_manager
+Description: Description of fkie_node_manager
+Version: 1.3.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

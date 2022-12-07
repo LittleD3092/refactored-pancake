@@ -1,0 +1,10 @@
+Symlinking /home/itron/refactored-pancake/catkin_ws/devel/lib/fkie_node_manager_daemon/node_manager_daemon
+Symlinking /home/itron/refactored-pancake/catkin_ws/devel/lib/fkie_node_manager_daemon/cmake.lock
+Symlinking /home/itron/refactored-pancake/catkin_ws/devel/lib/pkgconfig/fkie_node_manager_daemon.pc
+Symlinking /home/itron/refactored-pancake/catkin_ws/devel/lib/python3/dist-packages/fkie_node_manager_daemon/__init__.py
+Symlinking /home/itron/refactored-pancake/catkin_ws/devel/share/fkie_node_manager_daemon/VERSION
+Symlinking /home/itron/refactored-pancake/catkin_ws/devel/share/fkie_node_manager_daemon/DATE
+Symlinking /home/itron/refactored-pancake/catkin_ws/devel/share/fkie_node_manager_daemon/cmake/fkie_node_manager_daemonConfig-version.cmake
+Symlinking /home/itron/refactored-pancake/catkin_ws/devel/share/fkie_node_manager_daemon/cmake/fkie_node_manager_daemonConfig.cmake
+Symlinking /home/itron/refactored-pancake/catkin_ws/devel/bin/node_manager_daemon
+Symlinking /home/itron/refactored-pancake/catkin_ws/devel/bin/cmake.lock

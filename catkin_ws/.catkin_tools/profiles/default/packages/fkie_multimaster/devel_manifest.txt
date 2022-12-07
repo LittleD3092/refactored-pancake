@@ -1,0 +1,2 @@
+multimaster/fkie_multimaster
+/home/itron/refactored-pancake/catkin_ws/devel/.private/fkie_multimaster/cmake.lock /home/itron/refactored-pancake/catkin_ws/devel/./cmake.lock

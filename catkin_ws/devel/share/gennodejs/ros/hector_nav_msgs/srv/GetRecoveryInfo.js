@@ -14,8 +14,8 @@ const _getByteLength = _ros_msg_utils.getByteLength;
 
 //-----------------------------------------------------------
 
-let geometry_msgs = _finder('geometry_msgs');
 let nav_msgs = _finder('nav_msgs');
+let geometry_msgs = _finder('geometry_msgs');
 
 //-----------------------------------------------------------
 

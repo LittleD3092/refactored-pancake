@@ -1,0 +1,7 @@
+Symlinking /home/itron/refactored-pancake/catkin_ws/devel/lib/fkie_master_discovery/zeroconf
+Symlinking /home/itron/refactored-pancake/catkin_ws/devel/lib/fkie_master_discovery/master_discovery
+Symlinking /home/itron/refactored-pancake/catkin_ws/devel/lib/fkie_master_discovery/cmake.lock
+Symlinking /home/itron/refactored-pancake/catkin_ws/devel/lib/pkgconfig/fkie_master_discovery.pc
+Symlinking /home/itron/refactored-pancake/catkin_ws/devel/lib/python3/dist-packages/fkie_master_discovery/__init__.py
+Symlinking /home/itron/refactored-pancake/catkin_ws/devel/share/fkie_master_discovery/cmake/fkie_master_discoveryConfig-version.cmake
+Symlinking /home/itron/refactored-pancake/catkin_ws/devel/share/fkie_master_discovery/cmake/fkie_master_discoveryConfig.cmake

@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target fkie_node_manager_daemon_GET_VERSION[0m
+[ 33%] [34m[1mcreate date file /home/itron/refactored-pancake/catkin_ws/devel/.private/fkie_node_manager_daemon/share/fkie_node_manager_daemon/DATE[0m
+[ 66%] [34m[1mcreate version file /home/itron/refactored-pancake/catkin_ws/devel/.private/fkie_node_manager_daemon/share/fkie_node_manager_daemon/VERSION[0m
+[100%] [34m[1mGenerate version files[0m
+[100%] Built target fkie_node_manager_daemon_GET_VERSION

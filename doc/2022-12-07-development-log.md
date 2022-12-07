@@ -1,0 +1,7 @@
+- Following the tutorial [Husky setting in ROS melodic](https://hackmd.io/iOtCxeZtSSqi2rCyHt2dyg?view)
+    - When in section **ROS install Husky**, 
+        - `ros-noetic-multimaster-launch` cannot be found by `apt-get`.
+            - I use the tutorial and build from source code here: [multimaster_fkie - github](https://github.com/fkie/multimaster_fkie)
+        - `ros-noetic-lms1xx` cannot be found by `apt-get`.
+            - Found a repository [LMS1xx](https://github.com/clearpathrobotics/LMS1xx), but not sure how to install it yet.
+        - `husky_bringup` package missing.
