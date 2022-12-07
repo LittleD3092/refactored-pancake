@@ -1,0 +1,10 @@
+[submodule "catkin_ws/src/husky"]
+	path = catkin_ws/src/husky
+	url = https://github.com/husky/husky.git
+[submodule "catkin_ws/src/imu_tools"]
+	path = catkin_ws/src/imu_tools
+	url = https://github.com/CCNYRoboticsLab/imu_tools.git
+	branch = noetic
+[submodule "catkin_ws/src/multimaster"]
+	path = catkin_ws/src/multimaster
+	url = https://github.com/fkie/multimaster_fkie.git
