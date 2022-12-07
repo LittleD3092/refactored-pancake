@@ -7,6 +7,8 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/littled3092/refactored-pancake/catkin_ws/devel:$CMAKE_PREFIX_PATH"
-export PWD='/home/littled3092/refactored-pancake/catkin_ws/build'
-export ROS_PACKAGE_PATH="/home/littled3092/refactored-pancake/catkin_ws/src:$ROS_PACKAGE_PATH"
+export LD_LIBRARY_PATH="/home/itron/refactored-pancake/catkin_ws/devel/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/home/itron/refactored-pancake/catkin_ws/devel/lib/pkgconfig:$PKG_CONFIG_PATH"
+export PWD='/home/itron/refactored-pancake/catkin_ws/build'
+export PYTHONPATH="/home/itron/refactored-pancake/catkin_ws/devel/lib/python3/dist-packages:$PYTHONPATH"
+export ROS_PACKAGE_PATH='/home/itron/refactored-pancake/catkin_ws/src:/opt/ros/noetic/share'

@@ -14,5 +14,5 @@ test/CMakeFiles/lidar_test.dir/lidar_test.cpp.o
  ../core/common/ydlidar_def.h
  ../core/common/ydlidar_protocol.h
  ../src/CYdLidar.h
- /home/littled3092/YDLiDAR/YDLidar-SDK-master/test/lidar_test.cpp
- /home/littled3092/YDLiDAR/YDLidar-SDK-master/test/lidar_test.h
+ /home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/test/lidar_test.cpp
+ /home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/test/lidar_test.h

@@ -1,4 +1,4 @@
-# Install script for directory: /home/littled3092/YDLiDAR/YDLidar-SDK-master/core
+# Install script for directory: /home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/core
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,11 +39,11 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/littled3092/YDLiDAR/YDLidar-SDK-master/build/core/base/cmake_install.cmake")
-  include("/home/littled3092/YDLiDAR/YDLidar-SDK-master/build/core/common/cmake_install.cmake")
-  include("/home/littled3092/YDLiDAR/YDLidar-SDK-master/build/core/math/cmake_install.cmake")
-  include("/home/littled3092/YDLiDAR/YDLidar-SDK-master/build/core/network/cmake_install.cmake")
-  include("/home/littled3092/YDLiDAR/YDLidar-SDK-master/build/core/serial/cmake_install.cmake")
+  include("/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/build/core/base/cmake_install.cmake")
+  include("/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/build/core/common/cmake_install.cmake")
+  include("/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/build/core/math/cmake_install.cmake")
+  include("/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/build/core/network/cmake_install.cmake")
+  include("/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/build/core/serial/cmake_install.cmake")
 
 endif()
 

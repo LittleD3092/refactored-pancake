@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/littled3092/YDLiDAR/YDLidar-SDK-master/core/serial/impl/unix/lock.c
+/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/core/serial/impl/unix/lock.c
 lock.h
-/home/littled3092/YDLiDAR/YDLidar-SDK-master/core/serial/impl/unix/lock.h
+/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/core/serial/impl/unix/lock.h
 stdio.h
 -
 unistd.h
@@ -34,7 +34,7 @@ stdlib.h
 signal.h
 -
 
-/home/littled3092/YDLiDAR/YDLidar-SDK-master/core/serial/impl/unix/lock.h
+/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/core/serial/impl/unix/lock.h
 sys/file.h
 -
 sys/socket.h

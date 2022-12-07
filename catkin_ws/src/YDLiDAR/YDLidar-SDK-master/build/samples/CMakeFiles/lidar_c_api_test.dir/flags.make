@@ -6,5 +6,5 @@ C_FLAGS =   -fPIC -std=c++11
 
 C_DEFINES = 
 
-C_INCLUDES = -I/home/littled3092/YDLiDAR/YDLidar-SDK-master/. -I/home/littled3092/YDLiDAR/YDLidar-SDK-master/core -I/home/littled3092/YDLiDAR/YDLidar-SDK-master/src -I/home/littled3092/YDLiDAR/YDLidar-SDK-master -I/home/littled3092/YDLiDAR/YDLidar-SDK-master/.. -I/home/littled3092/YDLiDAR/YDLidar-SDK-master/build/samples 
+C_INCLUDES = -I/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/. -I/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/core -I/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/src -I/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master -I/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/.. -I/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/build/samples 
 

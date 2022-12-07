@@ -6,5 +6,5 @@ CXX_FLAGS =  -std=c++11   -fPIC -std=c++11
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/littled3092/YDLiDAR/YDLidar-SDK-master/. -I/home/littled3092/YDLiDAR/YDLidar-SDK-master/core -I/home/littled3092/YDLiDAR/YDLidar-SDK-master/src -I/home/littled3092/YDLiDAR/YDLidar-SDK-master -I/home/littled3092/YDLiDAR/YDLidar-SDK-master/.. -I/home/littled3092/YDLiDAR/YDLidar-SDK-master/build/samples 
+CXX_INCLUDES = -I/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/. -I/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/core -I/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/src -I/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master -I/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/.. -I/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/build/samples 
 

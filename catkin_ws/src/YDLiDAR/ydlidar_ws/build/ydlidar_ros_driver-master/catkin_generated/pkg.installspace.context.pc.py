@@ -4,5 +4,5 @@ PROJECT_PKG_CONFIG_INCLUDE_DIRS = "".split(';') if "" != "" else []
 PROJECT_CATKIN_DEPENDS = "roscpp;rospy;sensor_msgs;message_runtime".replace(';', ' ')
 PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
 PROJECT_NAME = "ydlidar_ros_driver"
-PROJECT_SPACE_DIR = "/home/littled3092/YDLiDAR/ydlidar_ws/install"
+PROJECT_SPACE_DIR = "/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/ydlidar_ws/install"
 PROJECT_VERSION = "1.0.1"

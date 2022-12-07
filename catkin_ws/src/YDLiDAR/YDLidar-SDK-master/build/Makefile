@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/littled3092/YDLiDAR/YDLidar-SDK-master
+CMAKE_SOURCE_DIR = /home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/littled3092/YDLiDAR/YDLidar-SDK-master/build
+CMAKE_BINARY_DIR = /home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -105,7 +105,7 @@ test/fast: test
 # Special rule for the target package_source
 package_source:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Run CPack packaging tool for source..."
-	/usr/bin/cpack --config ./CPackSourceConfig.cmake /home/littled3092/YDLiDAR/YDLidar-SDK-master/build/CPackSourceConfig.cmake
+	/usr/bin/cpack --config ./CPackSourceConfig.cmake /home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/build/CPackSourceConfig.cmake
 .PHONY : package_source
 
 # Special rule for the target package_source
@@ -159,9 +159,9 @@ package/fast: package
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/littled3092/YDLiDAR/YDLidar-SDK-master/build/CMakeFiles /home/littled3092/YDLiDAR/YDLidar-SDK-master/build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/build/CMakeFiles /home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/littled3092/YDLiDAR/YDLidar-SDK-master/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

@@ -6,4 +6,4 @@ samples/CMakeFiles/lidar_c_api_test.dir/lidar_c_api_test.c.o
  ../core/base/utils.h
  ../core/common/ydlidar_def.h
  ../src/ydlidar_sdk.h
- /home/littled3092/YDLiDAR/YDLidar-SDK-master/samples/lidar_c_api_test.c
+ /home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/samples/lidar_c_api_test.c

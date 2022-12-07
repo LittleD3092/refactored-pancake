@@ -1,2 +1,2 @@
-
--DCATKIN_DEVEL_PREFIX=/home/littled3092/refactored-pancake/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/littled3092/refactored-pancake/catkin_ws/install -G Unix Makefiles
+YDLiDAR/ydlidar_ws/src/ydlidar_ros_driver-master:hector_slam/hector_compressed_map_transport:hector_slam/hector_geotiff:hector_slam/hector_geotiff_launch:hector_slam/hector_geotiff_plugins:hector_slam/hector_imu_attitude_to_tf:hector_slam/hector_imu_tools:hector_slam/hector_map_server:hector_slam/hector_map_tools:hector_slam/hector_mapping:hector_slam/hector_marker_drawing:hector_slam/hector_nav_msgs:hector_slam/hector_slam:hector_slam/hector_slam_launch:hector_slam/hector_trajectory_server
+-DCATKIN_DEVEL_PREFIX=/home/itron/refactored-pancake/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/itron/refactored-pancake/catkin_ws/install -G Unix Makefiles

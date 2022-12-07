@@ -154,9 +154,9 @@ string
 map
 -
 
-/home/littled3092/YDLiDAR/YDLidar-SDK-master/samples/tof_test.cpp
+/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/samples/tof_test.cpp
 CYdLidar.h
-/home/littled3092/YDLiDAR/YDLidar-SDK-master/samples/CYdLidar.h
+/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/samples/CYdLidar.h
 iostream
 -
 string

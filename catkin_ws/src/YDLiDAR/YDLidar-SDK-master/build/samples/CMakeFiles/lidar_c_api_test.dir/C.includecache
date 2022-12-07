@@ -32,7 +32,7 @@ stdint.h
 core/common/ydlidar_def.h
 -
 
-/home/littled3092/YDLiDAR/YDLidar-SDK-master/samples/lidar_c_api_test.c
+/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/samples/lidar_c_api_test.c
 stdio.h
 -
 stdlib.h
@@ -46,5 +46,5 @@ unistd.h
 string.h
 -
 ydlidar_sdk.h
-/home/littled3092/YDLiDAR/YDLidar-SDK-master/samples/ydlidar_sdk.h
+/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/samples/ydlidar_sdk.h
 

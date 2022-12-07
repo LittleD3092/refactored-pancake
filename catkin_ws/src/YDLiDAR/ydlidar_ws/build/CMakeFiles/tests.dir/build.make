@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/littled3092/YDLiDAR/ydlidar_ws/src
+CMAKE_SOURCE_DIR = /home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/ydlidar_ws/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/littled3092/YDLiDAR/ydlidar_ws/build
+CMAKE_BINARY_DIR = /home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/ydlidar_ws/build
 
 # Utility rule file for tests.
 
@@ -67,6 +67,6 @@ CMakeFiles/tests.dir/clean:
 .PHONY : CMakeFiles/tests.dir/clean
 
 CMakeFiles/tests.dir/depend:
-	cd /home/littled3092/YDLiDAR/ydlidar_ws/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/littled3092/YDLiDAR/ydlidar_ws/src /home/littled3092/YDLiDAR/ydlidar_ws/src /home/littled3092/YDLiDAR/ydlidar_ws/build /home/littled3092/YDLiDAR/ydlidar_ws/build /home/littled3092/YDLiDAR/ydlidar_ws/build/CMakeFiles/tests.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/ydlidar_ws/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/ydlidar_ws/src /home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/ydlidar_ws/src /home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/ydlidar_ws/build /home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/ydlidar_ws/build /home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/ydlidar_ws/build/CMakeFiles/tests.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/tests.dir/depend
 

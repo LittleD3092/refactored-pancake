@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/littled3092/YDLiDAR/ydlidar_ws/devel/lib/ydlidar_ros_driver/ydlidar_ros_driver_node"
-  "/home/littled3092/YDLiDAR/ydlidar_ws/devel/lib/ydlidar_ros_driver/ydlidar_ros_driver_node.pdb"
+  "/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/ydlidar_ws/devel/lib/ydlidar_ros_driver/ydlidar_ros_driver_node"
+  "/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/ydlidar_ws/devel/lib/ydlidar_ros_driver/ydlidar_ros_driver_node.pdb"
   "CMakeFiles/ydlidar_ros_driver_node.dir/src/ydlidar_ros_driver.cpp.o"
 )
 

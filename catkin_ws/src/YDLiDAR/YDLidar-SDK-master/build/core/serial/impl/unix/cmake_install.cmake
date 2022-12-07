@@ -1,4 +1,4 @@
-# Install script for directory: /home/littled3092/YDLiDAR/YDLidar-SDK-master/core/serial/impl/unix
+# Install script for directory: /home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/core/serial/impl/unix
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/littled3092/YDLiDAR/YDLidar-SDK-master/test/lidar_test.cpp" "/home/littled3092/YDLiDAR/YDLidar-SDK-master/build/test/CMakeFiles/lidar_test.dir/lidar_test.cpp.o"
+  "/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/test/lidar_test.cpp" "/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/build/test/CMakeFiles/lidar_test.dir/lidar_test.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -22,7 +22,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/littled3092/YDLiDAR/YDLidar-SDK-master/build/CMakeFiles/ydlidar_sdk.dir/DependInfo.cmake"
+  "/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/YDLidar-SDK-master/build/CMakeFiles/ydlidar_sdk.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

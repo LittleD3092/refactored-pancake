@@ -7,4 +7,8 @@
 # new environment variables
 
 # modified environment variables
-export PWD='/home/littled3092/YDLiDAR/ydlidar_ws/build'
+export CMAKE_PREFIX_PATH="/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/ydlidar_ws/devel:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/ydlidar_ws/devel/lib:$LD_LIBRARY_PATH"
+export PWD='/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/ydlidar_ws/build'
+export ROSLISP_PACKAGE_DIRECTORIES='/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/ydlidar_ws/devel/share/common-lisp'
+export ROS_PACKAGE_PATH="/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/ydlidar_ws/src:$ROS_PACKAGE_PATH"

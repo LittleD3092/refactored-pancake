@@ -1,4 +1,4 @@
-prefix=/home/littled3092/YDLiDAR/ydlidar_ws/devel
+prefix=/home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/ydlidar_ws/devel
 
 Name: ydlidar_ros_driver
 Description: Description of ydlidar_ros_driver

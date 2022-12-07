@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/littled3092/YDLiDAR/ydlidar_ws/src
+CMAKE_SOURCE_DIR = /home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/ydlidar_ws/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/littled3092/YDLiDAR/ydlidar_ws/build
+CMAKE_BINARY_DIR = /home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/ydlidar_ws/build
 
 # Utility rule file for rosgraph_msgs_generate_messages_nodejs.
 
@@ -63,10 +63,10 @@ ydlidar_ros_driver-master/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/
 .PHONY : ydlidar_ros_driver-master/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/build
 
 ydlidar_ros_driver-master/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/clean:
-	cd /home/littled3092/YDLiDAR/ydlidar_ws/build/ydlidar_ros_driver-master && $(CMAKE_COMMAND) -P CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/cmake_clean.cmake
+	cd /home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/ydlidar_ws/build/ydlidar_ros_driver-master && $(CMAKE_COMMAND) -P CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/cmake_clean.cmake
 .PHONY : ydlidar_ros_driver-master/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/clean
 
 ydlidar_ros_driver-master/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/depend:
-	cd /home/littled3092/YDLiDAR/ydlidar_ws/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/littled3092/YDLiDAR/ydlidar_ws/src /home/littled3092/YDLiDAR/ydlidar_ws/src/ydlidar_ros_driver-master /home/littled3092/YDLiDAR/ydlidar_ws/build /home/littled3092/YDLiDAR/ydlidar_ws/build/ydlidar_ros_driver-master /home/littled3092/YDLiDAR/ydlidar_ws/build/ydlidar_ros_driver-master/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/ydlidar_ws/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/ydlidar_ws/src /home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/ydlidar_ws/src/ydlidar_ros_driver-master /home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/ydlidar_ws/build /home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/ydlidar_ws/build/ydlidar_ros_driver-master /home/itron/refactored-pancake/catkin_ws/src/YDLiDAR/ydlidar_ws/build/ydlidar_ros_driver-master/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : ydlidar_ros_driver-master/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/depend
 
